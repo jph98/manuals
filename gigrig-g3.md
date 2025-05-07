@@ -1,12 +1,10 @@
-Tuner - set as preset 8 (no display)
-Tap temp - always set as 1 (no display) and next to the SLO (no damage if hit accidentally)
 
-## Setting Tuner
+## Setting Tuner
 
 * Select preset
 * Menu > Tuner > Tuner Enabled Mute Enabled
 
-## Setting Tap Tempo
+## Setting Tap Tempo
 
 Turn sticky stomp off in order to access the preset first
 
