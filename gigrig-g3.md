@@ -18,6 +18,14 @@ Turn stomp box mode on to make this active.  You will need to click on another p
 
 ## Setting a PC (Program Change) message to select a given preset on a pedal
 
+Generally you would do the following:
+* Midi > On > Midi Channel Number > PC+ > number of preset
+
+On some pedals, e.g. the bloody Strymon Bigsky you need to select the bank then the preset
+
+* Midi > On > Midi Channel Number > CC+ > 0 (bank)
+* Midi > On > Midi Channel Number > PC+ > 0 (preset)
+
 ## Setting the MTET / Volume Pedal Up
 
 * MTET - Midi channel 1 - CC 1 is the more or less. CC 2 is the Avalanche.
