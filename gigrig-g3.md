@@ -26,7 +26,7 @@ On some pedals, e.g. the bloody Strymon Bigsky you need to select the bank then 
 * Midi > On > Midi Channel Number > CC+ > 0 (bank)
 * Midi > On > Midi Channel Number > PC+ > 0 (preset)
 
-## Setting the MTET / Volume Pedal Up
+## OBNE MTET / Expression / Volume
 
 * MTET - Midi channel 1 - CC 1 is the more or less. CC 2 is the Avalanche.
 * To program the more or less to be a volume control, you need to go 'Deep edit > Expression > Midi 1 > ON > Channel 1 > Heel 000 > Toe 127 > Number 1.
