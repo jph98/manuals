@@ -29,8 +29,19 @@ On some pedals, e.g. the bloody Strymon Bigsky you need to select the bank then 
 
 ## OBNE MTET / Expression / Volume
 
-* MTET - Midi channel 1 - CC 1 is the more or less. CC 2 is the Avalanche.
-* To program the more or less to be a volume control, you need to go 'Deep edit > Expression > Midi 1 > ON > Channel 1 > Heel 000 > Toe 127 > Number 1.
+To set the expression pedal to control the Octa Psi as a whammy...
+
+* Deep Edit > Expr 1 Midi 1 > On, Channel 1, Heel 0, Toe 127, Control 3
+
+Control:
+* 01 - BigSky
+* 02 - More or Less 
+* 03 - Octa Psi
+* 04 - Avalanche Run
+
+To program the more or less to be a volume control:
+
+* Deep Edit > Expr Midi 1 > ON > Channel 1 > Heel 000 > Toe 127 > Control 1
 
 # General
 
