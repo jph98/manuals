@@ -43,7 +43,7 @@ To program the more or less to be a volume control:
 
 Make sure you turn on the M.O.L and set the heel/toe accordingly, it's on (5)
 
-* Deep Edit > Expr Midi 1 > ON > Channel 1 > Heel 000 > Toe 127 > Control 1
+* Deep Edit > Expr Midi 1 > ON > Channel 1 > Heel 000 > Toe 127 > Control 2
 
 # General
 
