@@ -45,6 +45,18 @@ Make sure you turn on the M.O.L and set the heel/toe accordingly, it's on (5)
 
 * Deep Edit > Expr Midi 1 > ON > Channel 1 > Heel 000 > Toe 127 > Control 2
 
+# Volume Control
+
+I don't know how the More or Less functions as above.  But to turn on volume pedal, set:
+
+Exp Vol 1 - ON, then set Toe (o), Heel (100) 
+
+and voila.
+
+# Questions
+
+When to use pre-gain and post-gain?
+
 # General
 
 * FX Enabled required for send/return
