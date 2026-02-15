@@ -27,6 +27,14 @@ On some pedals, e.g. the bloody Strymon Bigsky you need to select the bank then 
 * Midi > On > Midi Channel Number > CC+ > 0 (bank)
 * Midi > On > Midi Channel Number > PC+ > 0 (preset)
 
+## Sticky Stomp
+
+Momentary option also
+
+## Utilising Hidden Presets
+
+TODO
+
 ## OBNE MTET / Expression / Volume
 
 To set the expression pedal to control the Octa Psi as a whammy...
