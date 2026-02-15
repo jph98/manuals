@@ -45,7 +45,17 @@ Make sure you turn on the M.O.L and set the heel/toe accordingly, it's on (5)
 
 * Deep Edit > Expr Midi 1 > ON > Channel 1 > Heel 000 > Toe 127 > Control 2
 
-# Volume Control
+## Callibration and Curve
+
+Click down to EXP 1 (or EXP 2 if you're using EXP 2!) cal heel > Click along > Now press your expression pedal so the heel is all the way back. > Press FootSwitch 4. G3 will display on the screen a percentage from 1 to 100% of how far the expression pedal travels.
+
+Click FootSwitch 3 to go back, and click down to EXP 1 Cal Toe > Click along > Now press your expression pedal so the toe is all the way down. > Press FootSwitch 4. G3 will display on the screen a percentage from 1 to 100% of how far the expression pedal travels.
+
+G3 will have now have calibrated the top and the bottom points of your expression pedal.
+
+As well as this, if you click down lower to EXP 1 (or EXP 2 if you're using EXP 2!) log curve - you can now select tailored curves for your expression sweep. Click through these and try them out to work out what your preferred sweep is for your expression pedal.
+
+## Volume Control
 
 I don't know how the More or Less functions as above.  But to turn on volume pedal, set:
 
